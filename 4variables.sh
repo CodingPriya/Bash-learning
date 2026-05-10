@@ -9,3 +9,5 @@ echo "Printing the value of today's date : $Todays_Date"
 
 Todays_Date=$(date +%F)
 echo "Printing the value of today's date : $Todays_Date"
+
+echo "Number of logged in sessions : $(who |wc -l)"
