@@ -12,3 +12,4 @@ sleep 3
 echo "lets learn bash scripting"
 sleep 3
 echo "end of the script"
+echo "Script name : $# completed"
