@@ -1,1 +1,1 @@
-echo -e "\e[34m I am printing blue color \e[0m"]
+echo -e "\e[34m I am printing blue color \e[0m"
