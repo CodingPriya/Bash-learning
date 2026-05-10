@@ -8,4 +8,7 @@
 # bash scriptName
 
 echo "Hello World"
+sleep 3
 echo "lets learn bash scripting"
+sleep 3
+echo "end of the script"
