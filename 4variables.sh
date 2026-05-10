@@ -4,3 +4,5 @@ a=10
 echo "Printing the value of a : $a"
 
 echo "Printing the value of b : $b"
+Todays_Date="2026-05-04"
+echo "Printing the value of today's date : $Todays_Date"
