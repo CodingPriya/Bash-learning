@@ -5,7 +5,15 @@ stat() {
     echo "Todays date is : $(date +%f)"
     echo "Number of logged in sessions : $(who | wc -l)"
     echo "stat function completed"
+    echo -e "------------------------------\n \n"
     
 }
 
 stat
+sleep1
+
+stat
+sleep2
+
+stat
+sleep3
